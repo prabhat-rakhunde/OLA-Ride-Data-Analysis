@@ -1,7 +1,7 @@
-# OLA Data Analyst Project
+# OLA Ride Data Analysis 
 
 ## Project Overview
-The **OLA Data Analyst Project** involves analyzing ride-booking data using **Power BI** to extract meaningful insights. The primary objective is to visualize booking trends, customer behavior, revenue streams, and overall platform performance.
+The **OLA Ride Data Analysis ** involves analyzing ride-booking data using **Power BI** to extract meaningful insights. The primary objective is to visualize booking trends, customer behavior, revenue streams, and overall platform performance.
 
 ## Dataset Description
 The project utilizes a dataset containing ride-booking details, including:
